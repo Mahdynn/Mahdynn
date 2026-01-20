@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖋 Front-End Developer specified at Web Development mainly using React and Tailwind CSS.<br>🔭 Currently working on BRIGHT (Brawijaya Research Highlight) Website for International Office Universitas Brawijaya<br>🌱 I’m currently learning ThreeJS, ExpressJS, Svelte, and MongoDB<br>📩 Reach me at mahdyna2.0@gmail.com<br>
+🖋 Front-End Developer specified at Web Development mainly using React, Tailwind CSS, and WordPress.<br>🔭 Currently working on BRIGHT (Brawijaya Research Highlight) Website for International Office Universitas Brawijaya<br>💻LLM Enthusiast, Focused upon MCP & API Usage on Matlab/Simulink<br>📩 Reach me at mahdyna2.0@gmail.com<br>
 
 
 ## 🌐 Socials:
